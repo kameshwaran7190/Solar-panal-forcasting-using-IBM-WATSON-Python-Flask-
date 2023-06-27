@@ -1,1 +1,1 @@
-# Solar-panal-forcasting-using-fask
+# Solar-panal-forcasting-using-flask
